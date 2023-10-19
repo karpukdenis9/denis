@@ -21,3 +21,4 @@ Days without smoking:
 19 day
 20 day
 21 day (3 weeks without smoking!)
+22 day
