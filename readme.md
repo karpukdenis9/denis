@@ -45,3 +45,4 @@ Days without smoking:
 43 day
 44 day
 45 day
+46 day
