@@ -66,3 +66,4 @@ Days without smoking:
 64 day
 65 day
 66 day
+67 day
