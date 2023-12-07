@@ -70,3 +70,4 @@ Days without smoking:
 68 day
 69 day
 70 day
+71 day
