@@ -89,4 +89,5 @@ Days without smoking:
 87 day
 88 day
 89 day
-100 day
+90 day
+91 day
