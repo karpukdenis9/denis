@@ -105,3 +105,4 @@ Days without smoking:
 103 day
 104 day
 105 day
+106 day
